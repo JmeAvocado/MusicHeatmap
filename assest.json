@@ -2,11 +2,11 @@
   "files": {
     "main.css": "/MusicHeatmap/css/main.css",
     "main.js": "/MusicHeatmap/js/main.js",
-    "static/js/453.51aa2258.chunk.js": "/MusicHeatmap/js/chunk.js",
+    "js/chunk.js": "/MusicHeatmap/js/chunk.js",
     "index.html": "/MusicHeatmap/index.html",
-    "main.30e71a23.css.map": "/MusicHeatmap/css/main.css.map",
-    "main.f86cc61f.js.map": "/MusicHeatmap/js/main.js.map",
-    "453.51aa2258.chunk.js.map": "/MusicHeatmap/js/chunk.js.map"
+    "main.css.map": "/MusicHeatmap/css/main.css.map",
+    "main.js.map": "/MusicHeatmap/js/main.js.map",
+    "chunk.js.map": "/MusicHeatmap/js/chunk.js.map"
   },
   "entrypoints": [
     "css/main.css",
